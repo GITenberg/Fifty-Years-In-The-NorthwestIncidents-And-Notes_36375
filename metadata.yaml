@@ -1,0 +1,41 @@
+_repo: Fifty-Years-In-The-NorthwestIncidents-And-Notes_36375
+_version: 0.1.0
+alternative_title: 50 Years In The Northwest
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Folsom, William H. C. (William Henry Carman)
+    aliases:
+    - Folsom, W. H. C. (William Henry Carman)
+    - Folsom, William Henry Carman
+    birthdate: 1817
+    deathdate: 1900
+    gutenberg_agent_id: '38235'
+    url: http://www.gutenberg.org/2009/agents/38235
+  editor:
+    agent_name: Edwards, E. E. (Elijah Evan)
+    alias: Edwards, Elijah Evan
+    birthdate: 1831
+    deathdate: 1915
+    gutenberg_agent_id: '43478'
+    url: http://www.gutenberg.org/2009/agents/43478
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36375'
+  lccn: rc01001070
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Minnesota -- History'
+- !lcsh 'Wisconsin -- History'
+title: "Fifty Years In The Northwest\r\nWith An Introduction And Appendix Containing\
+  \ Reminiscences, Incidents And Notes"
+url: http://www.gutenberg.org/ebooks/36375
